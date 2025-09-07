@@ -40,71 +40,6 @@ A beautiful Android UI design implementation for a pet shop and care application
 - **UI Framework**: Android XML Layouts
 - **Design System**: Material Design Components
 
-## 📦 Project Structure
-
-PetApp/
-├── app/
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/
-│   │   │   │   └── com/
-│   │   │   │       └── laranashop/
-│   │   │   │           └── petapp/
-│   │   │   │               ├── MainActivity.java
-│   │   │   │               ├── activities/
-│   │   │   │               │   ├── OnboardingActivity.java
-│   │   │   │               │   ├── HomeActivity.java
-│   │   │   │               │   ├── ProductDetailActivity.java
-│   │   │   │               │   ├── CartActivity.java
-│   │   │   │               │   ├── PaymentActivity.java
-│   │   │   │               │   ├── AccountActivity.java
-│   │   │   │               │   └── NotificationActivity.java
-│   │   │   │               └── adapters/
-│   │   │   │                   └── ProductAdapter.java
-│   │   │   ├── res/
-│   │   │   │   ├── layout/
-│   │   │   │   │   ├── activity_main.xml
-│   │   │   │   │   ├── activity_onboarding.xml
-│   │   │   │   │   ├── activity_home.xml
-│   │   │   │   │   ├── activity_product_detail.xml
-│   │   │   │   │   ├── activity_cart.xml
-│   │   │   │   │   ├── activity_payment.xml
-│   │   │   │   │   ├── activity_account.xml
-│   │   │   │   │   └── activity_notification.xml
-│   │   │   │   ├── drawable/
-│   │   │   │   │   ├── logo_heart.xml
-│   │   │   │   │   ├── ic_menu.xml
-│   │   │   │   │   ├── ic_notification.xml
-│   │   │   │   │   ├── ic_home.xml
-│   │   │   │   │   ├── ic_cart.xml
-│   │   │   │   │   ├── ic_profile.xml
-│   │   │   │   │   └── background_pattern.xml
-│   │   │   │   ├── values/
-│   │   │   │   │   ├── colors.xml
-│   │   │   │   │   ├── strings.xml
-│   │   │   │   │   └── styles.xml
-│   │   │   │   └── mipmap/
-│   │   │   │       ├── ic_launcher.png
-│   │   │   │       └── ic_launcher_round.png
-│   │   │   └── AndroidManifest.xml
-│   │   └── test/
-│   │       └── java/
-│   │           └── com/
-│   │               └── laranashop/
-│   │                   └── petapp/
-│   │                       └── ExampleUnitTest.java
-│   ├── build.gradle
-│   └── proguard-rules.pro
-├── gradle/
-│   └── wrapper/
-│       ├── gradle-wrapper.jar
-│       └── gradle-wrapper.properties
-├── build.gradle
-├── settings.gradle
-├── gradle.properties
-├── README.md
-└── .gitignore
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -258,14 +193,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Hirusha Thisayuru Ellawala**
 - Email: thisayuruhirusha@gmail.com
-- Mobile: +94 71 180 9276
-- Address: 577/A, Pahalagama, Ellawala
 
 ## 📞 Support
 
 - 📧 Email: thisayuruhirusha@gmail.com
-- 💬 GitHub Issues: [Create an issue](https://github.com/yourusername/PetApp/issues)
-- �� Mobile: +94 71 180 9276
+- 💬 GitHub Issues: [Create an issue](https://github.com/itzcheh1ru/PetApp/issues)
 
 ---
 
