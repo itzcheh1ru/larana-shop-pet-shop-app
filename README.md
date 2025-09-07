@@ -44,45 +44,61 @@ A beautiful Android UI design implementation for a pet shop and care application
 
 PetApp/
 ├── app/
-│ ├── src/main/
-│ │ ├── java/com/laranashop/petapp/
-│ │ │ ├── MainActivity.java
-│ │ │ ├── activities/
-│ │ │ │ ├── OnboardingActivity.java
-│ │ │ │ ├── HomeActivity.java
-│ │ │ │ ├── ProductDetailActivity.java
-│ │ │ │ ├── CartActivity.java
-│ │ │ │ ├── PaymentActivity.java
-│ │ │ │ ├── AccountActivity.java
-│ │ │ │ └── NotificationActivity.java
-│ │ │ └── adapters/
-│ │ │ └── ProductAdapter.java
-│ │ ├── res/
-│ │ │ ├── layout/ # XML layout files
-│ │ │ │ ├── activity_main.xml
-│ │ │ │ ├── activity_onboarding.xml
-│ │ │ │ ├── activity_home.xml
-│ │ │ │ ├── activity_product_detail.xml
-│ │ │ │ ├── activity_cart.xml
-│ │ │ │ ├── activity_payment.xml
-│ │ │ │ ├── activity_account.xml
-│ │ │ │ └── activity_notification.xml
-│ │ │ ├── drawable/ # Icons and graphics
-│ │ │ │ ├── logo_heart.xml
-│ │ │ │ ├── ic_menu.xml
-│ │ │ │ ├── ic_notification.xml
-│ │ │ │ ├── ic_home.xml
-│ │ │ │ ├── ic_cart.xml
-│ │ │ │ ├── ic_profile.xml
-│ │ │ │ └── background_pattern.xml
-│ │ │ ├── values/ # Resources
-│ │ │ │ ├── colors.xml
-│ │ │ │ ├── strings.xml
-│ │ │ │ └── styles.xml
-│ │ │ └── mipmap/ # App icons
-│ │ └── AndroidManifest.xml
-│ ├── build.gradle
-│ └── proguard-rules.pro
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/
+│   │   │   │       └── laranashop/
+│   │   │   │           └── petapp/
+│   │   │   │               ├── MainActivity.java
+│   │   │   │               ├── activities/
+│   │   │   │               │   ├── OnboardingActivity.java
+│   │   │   │               │   ├── HomeActivity.java
+│   │   │   │               │   ├── ProductDetailActivity.java
+│   │   │   │               │   ├── CartActivity.java
+│   │   │   │               │   ├── PaymentActivity.java
+│   │   │   │               │   ├── AccountActivity.java
+│   │   │   │               │   └── NotificationActivity.java
+│   │   │   │               └── adapters/
+│   │   │   │                   └── ProductAdapter.java
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   ├── activity_main.xml
+│   │   │   │   │   ├── activity_onboarding.xml
+│   │   │   │   │   ├── activity_home.xml
+│   │   │   │   │   ├── activity_product_detail.xml
+│   │   │   │   │   ├── activity_cart.xml
+│   │   │   │   │   ├── activity_payment.xml
+│   │   │   │   │   ├── activity_account.xml
+│   │   │   │   │   └── activity_notification.xml
+│   │   │   │   ├── drawable/
+│   │   │   │   │   ├── logo_heart.xml
+│   │   │   │   │   ├── ic_menu.xml
+│   │   │   │   │   ├── ic_notification.xml
+│   │   │   │   │   ├── ic_home.xml
+│   │   │   │   │   ├── ic_cart.xml
+│   │   │   │   │   ├── ic_profile.xml
+│   │   │   │   │   └── background_pattern.xml
+│   │   │   │   ├── values/
+│   │   │   │   │   ├── colors.xml
+│   │   │   │   │   ├── strings.xml
+│   │   │   │   │   └── styles.xml
+│   │   │   │   └── mipmap/
+│   │   │   │       ├── ic_launcher.png
+│   │   │   │       └── ic_launcher_round.png
+│   │   │   └── AndroidManifest.xml
+│   │   └── test/
+│   │       └── java/
+│   │           └── com/
+│   │               └── laranashop/
+│   │                   └── petapp/
+│   │                       └── ExampleUnitTest.java
+│   ├── build.gradle
+│   └── proguard-rules.pro
+├── gradle/
+│   └── wrapper/
+│       ├── gradle-wrapper.jar
+│       └── gradle-wrapper.properties
 ├── build.gradle
 ├── settings.gradle
 ├── gradle.properties
