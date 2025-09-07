@@ -51,7 +51,7 @@ A beautiful Android UI design implementation for a pet shop and care application
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/PetApp.git
+   git clone https://github.com/yitzcheh1ru/PetApp.git
    cd PetApp
    ```
 
@@ -197,7 +197,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - 📧 Email: thisayuruhirusha@gmail.com
-- 💬 GitHub Issues: [Create an issue](https://github.com/itzcheh1ru/PetApp/issues)
 
 ---
 
