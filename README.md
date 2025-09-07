@@ -23,7 +23,7 @@ A beautiful Android UI design implementation for a pet shop and care application
 |:---:|:---:|
 | ![Account](screenshots/09_account.png) | ![Notifications](screenshots/10_notifications.png) |
 
-## �� Design Features
+## ✨ Design Features
 
 - **Modern UI/UX** - Clean, intuitive interface following Material Design guidelines
 - **Consistent Branding** - Purple theme with professional color scheme
@@ -51,8 +51,8 @@ A beautiful Android UI design implementation for a pet shop and care application
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/itzcheh1ru/PetApp.git
-   cd PetApp
+   git clone https://github.com/itzcheh1ru/larana-shop-pet-shop-app.git
+   cd larana-shop-pet-shop-app
    ```
 
 2. **Open in Android Studio**
@@ -159,7 +159,7 @@ Text Secondary: #757575
 2. Add product images to `res/drawable/`
 3. Modify `ProductAdapter.java` if needed
 
-## �� UI Checklist
+## ✅ UI Checklist
 
 - [x] Welcome screen with branding
 - [x] 3 onboarding screens with navigation
