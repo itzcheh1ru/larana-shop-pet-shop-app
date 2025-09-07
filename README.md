@@ -11,7 +11,7 @@ A beautiful Android UI design implementation for a pet shop and care application
 ### Onboarding Flow
 | Welcome Screen | Pet Items | Healthy Foods | Fast Delivery |
 |:---:|:---:|:---:|:---:|
-| ![Welcome](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/1_welcome.PNG) | ![Pet Items](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/02_pet_items.png) | ![Foods](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/03_foods.png) | ![Delivery](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/04_delivery.png) |
+| ![Welcome](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/1_welcome.PNG) | ![Pet Items](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/2_pet_items.PNG) | ![Foods](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/03_foods.png) | ![Delivery](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/04_delivery.png) |
 
 ### Main Application
 | Home Screen | Product Detail | Shopping Cart | Payment |
