@@ -11,17 +11,17 @@ A beautiful Android UI design implementation for a pet shop and care application
 ### Onboarding Flow
 | Welcome Screen | Pet Items | Healthy Foods | Fast Delivery |
 |:---:|:---:|:---:|:---:|
-| ![Welcome](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/1_welcome.PNG) | ![Pet Items](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/2_pet_items.PNG) | ![Foods](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/03_foods.png) | ![Delivery](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/04_delivery.png) |
+| ![Welcome](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/1_welcome.PNG) | ![Pet Items](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/2_pet_items.PNG) | ![Foods](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/3_foods.PNG) | ![Delivery](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/4_delivery.PNG) |
 
 ### Main Application
 | Home Screen | Product Detail | Shopping Cart | Payment |
 |:---:|:---:|:---:|:---:|
-| ![Home](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/05_home.png) | ![Product Detail](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/06_product_detail.png) | ![Cart](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/07_cart.png) | ![Payment](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/08_payment.png) |
+| ![Home](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/5_home.PNG) | ![Product Detail](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/6_product_detail.PNG) | ![Cart](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/7_cart.PNG) | ![Payment](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/8_payment.PNG) |
 
 ### User Management
 | My Account | Notifications |
 |:---:|:---:|
-| ![Account](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/09_account.png) | ![Notifications](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/10_notifications.png) |
+| ![Account](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/9_account.PNG) | ![Notifications](https://github.com/itzcheh1ru/larana-shop-pet-shop-app/blob/main/screenshots/10_notifications.PNG) |
 
 ## ✨ Design Features
 
