@@ -51,7 +51,7 @@ A beautiful Android UI design implementation for a pet shop and care application
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yitzcheh1ru/PetApp.git
+   git clone https://github.com/itzcheh1ru/PetApp.git
    cd PetApp
    ```
 
